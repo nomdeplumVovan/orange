@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'PFDinDisplayPro-Bold';
+  src: url(fonts/pfdindisplaypro-bold.ttf);
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url(fonts/ofont.ru_PF\ DinDisplay\ Pro.ttf);
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro reg';
+  src: url(fonts/pfdindisplaypro-reg.ttf);
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro light';
+  src: url(fonts/pfdindisplaypro-light.ttf);
+}
